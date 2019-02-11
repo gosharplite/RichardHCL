@@ -18,7 +18,7 @@
   
 ## TBD
 - Prologue
-  - [References](https://github.com/gosharplite/even0709-JamesTzeng/blob/master/references.md)
+  - [References](https://github.com/gosharplite/RichardHCL/blob/master/references.md)
 - [Hands-on with kubeadm + calico](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
   - [DigitalOcean](https://cloud.digitalocean.com/login) + [CoreOS Container Linux](https://coreos.com/releases/) is one possible combination.
   - How are modules started? (etcd, kubelet, api-server, kube-controller, kube-proxy)
