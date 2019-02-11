@@ -16,7 +16,7 @@
   - Modules
   - Parameters
   
-## TBD
+## 2019-02-01 (Mon)
 - Prologue
   - [References](https://github.com/gosharplite/RichardHCL/blob/master/references.md)
 - [Hands-on with kubeadm + calico](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
