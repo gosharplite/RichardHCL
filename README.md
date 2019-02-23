@@ -16,7 +16,7 @@
   - Health check
   - Disaster recovery
 
-## 
+## 2019-02-23 (Sat)
 - Look into initial cluster objects
 - Disecting cluster components
   - Modules
