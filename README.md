@@ -16,7 +16,7 @@
   - Health check
   - Disaster recovery
 
-## TBD
+## 
 - Look into initial cluster objects
 - Disecting cluster components
   - Modules
