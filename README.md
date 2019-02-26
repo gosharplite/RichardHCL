@@ -1,6 +1,7 @@
 ## TBD
 - [Kubernetes Resource Management](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/resource-management.md) (part 1)
 - [Kubernetes Resource Management](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/resource-management.md) (part 2)
+- [Kubernetes Design and Development Explained](https://thenewstack.io/kubernetes-design-and-development-explained)
 - [Strategy map](https://www.facebook.com/groups/1868708016534431/permalink/2034137079991523/)
 - [M800 Cloud Native strategy map](https://docs.google.com/presentation/d/1MU-_srB0eWBUWks4vDLn5cvzPrOpcSRbXPQrN0-VrVk/edit#slide=id.g445b95b491_0_692)
 
