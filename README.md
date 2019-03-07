@@ -9,6 +9,9 @@
       - [kubectx](https://github.com/ahmetb/kubectx)
       - [kube-ps1](https://github.com/jonmosco/kube-ps1)
       - [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - [gitlab.com/CNCT](https://gitlab.com/CNCT)
+  - [gitlab.devops.maaii.com/cloud-native](https://gitlab.devops.maaii.com/cloud-native)
+  - [Naming rule for Kubernetes namespace](https://issuetracking.maaii.com:9443/pages/viewpage.action?spaceKey=TBRD&title=20180814+Naming+rule+for+Kubernetes+namespace)
 
 ## TBD
 - [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
