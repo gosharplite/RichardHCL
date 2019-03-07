@@ -1,4 +1,16 @@
 ## TBD
+- Mixing cluster
+  - [K8s technical design](https://issuetracking.maaii.com:9443/display/SOC/K8s+technical+design)
+  - [Kubernetes Operation](https://issuetracking.maaii.com:9443/display/CN/Kubernetes+Operation)
+    - Tools
+      - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+      - [kubectl for Docker Users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
+      - [Kubectl Reference Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+      - [kubectx](https://github.com/ahmetb/kubectx)
+      - [kube-ps1](https://github.com/jonmosco/kube-ps1)
+      - [kustomize](https://github.com/kubernetes-sigs/kustomize)
+
+## TBD
 - [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
 - [Cluster Management](https://kubernetes.io/docs/tasks/administer-cluster/cluster-management/)
   - Creating a new cluster
