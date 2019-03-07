@@ -1,4 +1,4 @@
-## TBD
+## 2019-03-04 (Thu)
 - Mixing cluster
   - [K8s technical design](https://issuetracking.maaii.com:9443/display/SOC/K8s+technical+design)
   - [Kubernetes Operation](https://issuetracking.maaii.com:9443/display/CN/Kubernetes+Operation)
