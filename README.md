@@ -13,7 +13,7 @@
   - [gitlab.devops.maaii.com/cloud-native](https://gitlab.devops.maaii.com/cloud-native)
   - [Naming rule for Kubernetes namespace](https://issuetracking.maaii.com:9443/pages/viewpage.action?spaceKey=TBRD&title=20180814+Naming+rule+for+Kubernetes+namespace)
 
-## TBD
+## 2019-03-04 (Thu)
 - [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
 - [Cluster Management](https://kubernetes.io/docs/tasks/administer-cluster/cluster-management/)
   - Creating a new cluster
