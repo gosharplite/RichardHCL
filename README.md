@@ -1,4 +1,15 @@
-## 2019-03-04 (Thu)
+## 2019-03-08 (Fri)
+- [Twitter](https://twitter.com/gosharplite/following)
+- [CNCF](https://www.cncf.io/)
+  - Governing Board
+  - TOC, [github](https://github.com/cncf/toc), [mailing list](https://lists.cncf.io/g/cncf-toc/messages)
+  - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [K8s](https://kubernetes.io/) [github](https://github.com/kubernetes)
+  - [community](https://github.com/kubernetes/community)
+    - [Steering committee](https://github.com/kubernetes/steering)
+    - [SIGs and WGs](https://github.com/kubernetes/community/blob/master/sig-list.md)
+  
+## 2019-03-07 (Thu)
 - Mixing cluster
   - [K8s technical design](https://issuetracking.maaii.com:9443/display/SOC/K8s+technical+design)
   - [Kubernetes Operation](https://issuetracking.maaii.com:9443/display/CN/Kubernetes+Operation)
@@ -13,7 +24,7 @@
   - [gitlab.devops.maaii.com/cloud-native](https://gitlab.devops.maaii.com/cloud-native)
   - [Naming rule for Kubernetes namespace](https://issuetracking.maaii.com:9443/pages/viewpage.action?spaceKey=TBRD&title=20180814+Naming+rule+for+Kubernetes+namespace)
 
-## 2019-03-04 (Thu)
+## 2019-03-07 (Thu)
 - [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
 - [Cluster Management](https://kubernetes.io/docs/tasks/administer-cluster/cluster-management/)
   - Creating a new cluster
