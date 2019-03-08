@@ -8,6 +8,13 @@
   - [community](https://github.com/kubernetes/community)
     - [Steering committee](https://github.com/kubernetes/steering)
     - [SIGs and WGs](https://github.com/kubernetes/community/blob/master/sig-list.md)
+- Links
+  - [K8s releases](https://github.com/kubernetes/kubernetes/releases)
+  - [Kubernetes SIGs](https://github.com/kubernetes-sigs)
+  - [Kubernetes developer/contributor discussion](https://groups.google.com/forum/#!forum/kubernetes-dev)
+  - [youtube](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos)
+  - [K8s discuss](https://discuss.kubernetes.io/)
+  - [Mixing Grafana](http://kube-worker.cloud.m800.com:30005/?orgId=1)
   
 ## 2019-03-07 (Thu)
 - Mixing cluster
