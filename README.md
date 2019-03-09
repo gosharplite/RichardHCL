@@ -13,6 +13,7 @@
 - Links
   - [K8s releases](https://github.com/kubernetes/kubernetes/releases)
   - [Kubernetes SIGs](https://github.com/kubernetes-sigs)
+  - [kubernetes-announce](https://groups.google.com/forum/#!forum/kubernetes-announce)
   - [Kubernetes developer/contributor discussion](https://groups.google.com/forum/#!forum/kubernetes-dev)
   - [youtube](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos)
   - [K8s discuss](https://discuss.kubernetes.io/)
