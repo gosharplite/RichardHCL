@@ -18,10 +18,13 @@
   - [youtube](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos)
   - [K8s discuss](https://discuss.kubernetes.io/)
   - [Mixing Grafana](http://kube-worker.cloud.m800.com:30005/?orgId=1)
+  - [Kubenetes Cluster complexity](https://issuetracking.maaii.com:9443/pages/viewpage.action?spaceKey=CN&title=Kubenetes+Cluster+complexity)
 - Team
   - [Handbook](https://issuetracking.maaii.com:9443/display/CN/Handbook)
   - [Guidelines and Values](https://docs.google.com/presentation/d/1qLK6HFQuB-OH4tX1NGyO8skIFBiEbyW1uQI-b7At4nY/edit#slide=id.p1)
   - [Performance Review](https://docs.google.com/presentation/d/1K0hpEv7rxqsN0y0MCY4uTNVL6PBN9V-mSEd9vE09jMs/edit#slide=id.p1)
+- Urgent or frequent ops
+  - [Common Operation Format about Jira and GitLab](https://docs.google.com/presentation/d/1D8X7bQtiweUoSUxVwbNjvwZFfFvRWszwSxFgpjgEFbU/edit#slide=id.p)
 
 ## 2019-03-07 (Thu)
 - Mixing cluster
