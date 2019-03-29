@@ -59,6 +59,7 @@
 - [Strategy map](https://www.facebook.com/groups/1868708016534431/permalink/2034137079991523/)
   - [M800 Cloud Native strategy map](https://docs.google.com/presentation/d/1MU-_srB0eWBUWks4vDLn5cvzPrOpcSRbXPQrN0-VrVk/edit#slide=id.g445b95b491_0_692)
   - [Strategy map basic](https://issuetracking.maaii.com:9443/display/CN/Presentations?preview=/65136093/82297136/Strategy%20Map%20Basic.pdf)
+  - [Sun Tzu's Art of War](https://github.com/gosharplite/RichardHCL/blob/master/Art_of_War.md)
 
 ## 2019-02-23 (Sat)
 - Look into initial cluster objects
