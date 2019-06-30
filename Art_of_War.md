@@ -5,4 +5,4 @@
   
 - GitLab 談 Leadership 裡面的 Management group 第 32 項特別建議 [Try to avoid military analogies](https://about.gitlab.com/handbook/leadership/#management-group)，解說還不錯。
 
-- [孫子兵法 (Sun Tzu's Art of War)](http://gosharp.myweb.hinet.net/)
+- [孫子兵法 (Sun Tzu's Art of War)](https://www.evernote.com/shard/s673/sh/1ce95985-cdfa-4a3c-a80c-22ccce412110/3c553793b07dde96200fba542a5284a3)
