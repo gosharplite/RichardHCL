@@ -1,5 +1,9 @@
 # Mentoring program, 02-11~03-08, 21 working days.
 
+## 2019-09-17 (Tue)
+- [Declarative application management in Kubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/declarative-application-management.md)
+- [Kubebuilder](https://book.kubebuilder.io/)
+
 ## 2019-03-08 (Fri)
 - [Twitter](https://twitter.com/gosharplite/following)
 - [CNCF](https://www.cncf.io/)
