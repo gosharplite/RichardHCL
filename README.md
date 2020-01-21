@@ -1,7 +1,7 @@
 # Mentoring program, 02-11~03-08, 21 working days.
 
 ## 2020-01-07 (Tue)
-- [Understanding Cloud Native](https://hackmd.io/eZ340XcfQVSG-4UhXvqN9A?both)
+- [Cloud Native Curriculum](https://hackmd.io/eZ340XcfQVSG-4UhXvqN9A)
 
 ## 2019-09-17 (Tue)
 - [Declarative application management in Kubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/declarative-application-management.md)
