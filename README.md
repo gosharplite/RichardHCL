@@ -3,6 +3,7 @@
 ## 2020-08-26 (Wed)
 - [Tools](https://hackmd.io/dFV8BHRkTlGCVG8kIzwQuA)
 - [Layers](https://issuetracking.maaii.com:9443/display/CN/Layers)
+- [History](https://issuetracking.maaii.com:9443/display/CN/History)
 
 ## 2020-05-04 (Mon)
 - [Prowess](https://hackmd.io/mLnQofo9TBGk2nrDpt0YqA)
