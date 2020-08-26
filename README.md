@@ -7,6 +7,8 @@
 
 ## 2020-05-04 (Mon)
 - [Prowess](https://hackmd.io/mLnQofo9TBGk2nrDpt0YqA)
+- [The Value of Cloud Native](https://issuetracking.maaii.com:9443/display/CN/The+Value+of+Cloud+Native)
+- [Code Review](https://issuetracking.maaii.com:9443/display/CN/Developing+Engineering+Processes)
 
 ## 2020-01-07 (Tue)
 - [Cloud Native Curriculum](https://hackmd.io/eZ340XcfQVSG-4UhXvqN9A)
